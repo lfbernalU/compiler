@@ -1,4 +1,4 @@
-# Convertidor de monedas 💰
+# Conversor de monedas 💰
 ## _Project 01_
 
 
